@@ -8,7 +8,7 @@
 ![Docker](https://img.shields.io/badge/Docker-20.10+-blue)
 ![Telegram](https://img.shields.io/badge/Telegram-API-blue)
 
-![Первый экран](https://raw.githubusercontent.com/Sshadow84/aztec-monitoring-script/main/other/img-ru-2025-05-25-05-45-23.png)
+![Первый экран](https://raw.githubusercontent.com/Sshadow84/aztec-monitoring-script-main/main/other/img-ru-2025-05-25-05-45-23.png)
 
 ## 📝 Описание
 
