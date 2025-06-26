@@ -166,6 +166,7 @@ init_languages() {
   TRANSLATIONS["en,unknown_error_occurred"]="⚠ An unknown error occurred during installation"
 
 
+
   # Russian translations
   TRANSLATIONS["ru,welcome"]="Добро пожаловать в скрипт мониторинга ноды Aztec"
   TRANSLATIONS["ru,title"]="========= Главное меню ========="
